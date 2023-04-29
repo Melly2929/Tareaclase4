@@ -1,0 +1,25 @@
+body{background-color: white;
+    font-family:  Helvetica;
+
+}
+h1{ font-size: 50px;
+
+}
+
+h3,h4{ font-size: 35px;
+    text-align: center;
+    width: fit-content;
+    color: black;
+    font-weight: bolder;
+
+
+}
+p {background-color: dodgerblue ;
+    width: fit-content;
+    text-align: justify;
+    
+
+}
+
+    
+    
